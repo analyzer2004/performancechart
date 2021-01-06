@@ -5,7 +5,7 @@ The **PerformanceChart** depicts the evolution of time-series categorical data b
 
 For live demos and sample codes, please see [Performance Chart](https://observablehq.com/@analyzer2004/performance-chart)
 
-<img src="https://github.com/analyzer2004/timespiral/blob/master/images/cover.png" width="768">
+<img src="https://github.com/analyzer2004/performancechart/blob/master/images/cover.png" width="768">
 
 ## API Reference
 * **PerformanceChart(container)** - Constructs a new instance of PerformanceChart with default settings. The container can be an svg or g element.
